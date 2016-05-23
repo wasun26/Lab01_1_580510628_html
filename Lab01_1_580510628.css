@@ -1,0 +1,12 @@
+/* 
+* @Author: Command3
+* @Date:   2016-05-23 16:13:05
+* @Last Modified by:   Command3
+* @Last Modified time: 2016-05-23 16:50:14
+*/
+
+.table_noborder {border: 0;}
+.generalday {font-size: none; font-family: Arial;
+    color: blue; text-decoration: none; font-weight: normal;}
+.freeday {font-size: none; font-family: Arial;
+    color: red; text-decoration: none; font-weight: normal;}
